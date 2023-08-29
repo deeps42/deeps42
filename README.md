@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/kyeNs4DnuW0AAAAM/dev_animado.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1280/1*kfx-cN49byOcG5y5_nP-jQ.gif)](https://rishavchanda.io)
 https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
 <h1 align="center">Hi 👋, I'm Deepak singh</h1>
 <h3 align="center">A passionate data engineer from UK</h3>
