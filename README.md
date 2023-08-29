@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966)](https://rishavchanda.io)
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+
 <h1 align="center">Hi 👋, I'm Deepak singh</h1>
 <h3 align="center">A passionate data engineer from UK</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
