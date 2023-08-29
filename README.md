@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Deepaksingh4213@gmail.com**
 
-- ⚡ Fun fact **I am happy**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
