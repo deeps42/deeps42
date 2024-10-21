@@ -1,7 +1,7 @@
 
 <h1 align="left">  Hello World👋 </h1>
 <h3 align="center">A passionate Data Analyst  </h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966](https://www.simplilearn.com/ice9/free_resources_article_thumb/Data_Analystim.jpg)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeps42&label=Profile%20views&color=0e75b6&style=flat" alt="deeps42" /> </p>
 
