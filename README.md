@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeps42&label=Profile%20views&color=0e75b6&style=flat" alt="deeps42" /> </p>
 
-- 💬 Ask me about **Hadoop, SQL, hive**
+- 💬 Ask me about **SQL,AWS,PYTHON**
 
 - 📫 How to reach me **Deepaksingh4213@gmail.com**
 
